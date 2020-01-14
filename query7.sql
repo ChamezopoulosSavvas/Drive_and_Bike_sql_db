@@ -1,0 +1,3 @@
+SELECT Quantity
+FROM motopart
+WHERE PartNo = 'GNRE853N12O33N3'
