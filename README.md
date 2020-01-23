@@ -3,6 +3,7 @@
 This is a project developed for the ECCE Auth Course - Database Systems
 
 The Developers Team (Chamezopoulos Savvas, Mytilis Konstantinos, Ntokos Konstantinos) designed and built a small database simulating a small automotive dealership whose main products are cars and motorcycles, along with parts and repair services for these products.
+The DB was built on a local PC on the mariaDB server (v. 5.5.57) through MySQL (v. 5.7.9.)
 
 The follwing schematic represents the main stucture of the database:
 
